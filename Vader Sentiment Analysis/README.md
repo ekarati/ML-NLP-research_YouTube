@@ -1,9 +1,9 @@
-# Project Title
+# VADER sentiment analysis
 
-One Paragraph of project description goes here
+Here I have performed VADER sentiment analysis on the datasets I cleaned as per the requirements of my research project.
 
-## Getting Started
+## Datasets used
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+I have cleaned the datasets as required. For info on the original dataset please refer to README_preprocessing.
 
 
