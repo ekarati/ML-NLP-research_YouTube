@@ -4,6 +4,6 @@ Here I have performed VADER sentiment analysis on the datasets I cleaned as per 
 
 ## Datasets used
 
-I have cleaned the datasets as required. For info on the original dataset please refer to README_preprocessing.
+I have cleaned the datasets as required. For info on the original dataset please refer to the README under Preprocessing.
 
 
