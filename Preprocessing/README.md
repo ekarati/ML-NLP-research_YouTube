@@ -4,7 +4,7 @@ Based on the requirements of my research project, I have cleaned and made altern
 
 ## Datasets Used
 
-data_original can be found at https://intelligence.csd.auth.gr/topics/hate-speech-detection/
+data_original can be found at: https://intelligence.csd.auth.gr/topics/hate-speech-detection/
 
 
 
