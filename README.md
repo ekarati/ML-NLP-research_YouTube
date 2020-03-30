@@ -9,3 +9,4 @@ I'm currently working on a research paper about the detection of hate attacks in
 * Finding word frequency, Bag of Words
 * Finding Ngrams (uni, bi, tri)
 
+I have additionally performed data mining in R/Python.
